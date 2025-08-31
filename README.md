@@ -1,28 +1,29 @@
-# Rock Paper Scissors Game
+# Rock Paper Scissors Game 🎮
 
-A simple Rock Paper Scissors game built with Python and tkinter GUI.
+A simple command-line Rock Paper Scissors game built with Python.
 
-## Features
-- Play against the computer
-- Score tracking
-- Simple and clean interface
-- Reset game functionality
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
+![Status](https://img.shields.io/badge/Status-Complete-green?style=for-the-badge)
 
-## How to Run
-1. Make sure you have Python installed
-2. Download the `game.py` file
-3. Open terminal/command prompt
-4. Navigate to the folder containing the file
-5. Run: `python game.py`
+## 📖 About
 
-## Technologies Used
-- Python
-- tkinter (for GUI)
+This is a terminal-based Rock Paper Scissors game where you play against the computer. It was created as a beginner Python project to learn programming fundamentals.
 
-## What I Learned
-- Basic Python programming
-- GUI development with tkinter
-- Game logic implementation
-- Version control with GitHub
+## 🎯 Features
 
-This is one of my first Python projects! :)
+- 🎮 Play Rock Paper Scissors against the computer
+- 📊 Score tracking (wins, losses, ties)
+- ✅ Input validation (only accepts valid choices)
+- 🔄 Play multiple rounds
+- 🏆 Final results summary
+- 🎨 Clean terminal interface with emojis
+
+## 🚀 How to Run
+
+### Prerequisites
+- Python 3.x installed on your computer
+
+### Installation & Running
+1. **Download the files** or clone the repository:
+   ```bash
+   git clone https://github.com/your-username/rock-paper-scissors.git
